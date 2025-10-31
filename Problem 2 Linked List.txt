@@ -1,0 +1,6 @@
+Problem 2: Linked List – Odd Even Linked List
+Link: https://leetcode.com/problems/odd-even-linked-list/submissions/1816759870/
+Explanation:
+Rearranges the linked list by separating odd and even indexed nodes.
+Connects all odd nodes first, followed by even nodes while maintaining order.
+Time Complexity: O(n), Space Complexity: O(1)
