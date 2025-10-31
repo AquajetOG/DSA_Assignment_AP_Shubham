@@ -1,0 +1,6 @@
+Problem 1: Stack – Next Greater Element II
+Link: https://leetcode.com/problems/next-greater-element-ii/
+Explanation:
+Used a monotonic stack to find the next greater element efficiently in circular fashion.
+We iterate twice over the array to simulate circular behavior.
+Time Complexity: O(n), Space Complexity: O(n)
